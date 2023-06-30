@@ -1,0 +1,28 @@
+# Byte-compiled / optimized Python files
+*.pyc
+__pycache__/
+
+# Local development settings
+.env
+
+# Django generated files
+*.log
+db.sqlite3
+media/
+
+# Static files
+staticfiles/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Development tools
+.vscode/
+.idea/
+*.swp
+
+# Docker
+Dockerfile
+docker-compose.yml
+
